@@ -1,6 +1,4 @@
-# OIBSIP_Web-development_Task1
-
-# OIBSIP_Web-development_level-2
+# OIBSIP_Web-development_Task
 
 ## OIBSIP_WEB-DEVLOPMENT_LEVEL 2_TASK-1
 ## Task title:
